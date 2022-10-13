@@ -1,0 +1,3 @@
+CS50 Final Project
+
+My final project is an iOS application built using Swift and SQL. Taking inspiration from the Notes activity, I developed a homework organizer titled "HomeworkHelper." The application allows user to create classes that will apear in a list, going into a class will present another list of class-specific assignments. Class names, as well as assignment name, details, and due dates can be custom created by the user. HomeworkHelper also has built in functionality to create reminders. Pressing the Bell button in the single assignment view requests permission for notifications and allows users to set a date for their reminder that will contain the assignment name and due date.
